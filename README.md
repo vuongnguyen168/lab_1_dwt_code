@@ -1,4 +1,4 @@
-"# lab_1_dwt_code" 
+dwt_coding lab guidance: 
 
 sudo apt update
 sudo apt install git
