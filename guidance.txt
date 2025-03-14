@@ -1,2 +1,0 @@
-pip install PyWavelets
-pip install opencv-python
