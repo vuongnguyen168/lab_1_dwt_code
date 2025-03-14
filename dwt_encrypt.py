@@ -98,6 +98,6 @@ def encode_message(image_path, message, output_path, wavelet='haar', subband='LH
 
 
 # Ví dụ sử dụng:
-encode_message('picture/deadpool.png', 'hello', 'encrypted.png', subband='LH')
+encode_message('picture/deadpool.png', 'edit_hiding_text_here', 'encrypted.png', subband='LH')
 print("successfully encoded")
 print("Mã hóa thành công")
