@@ -61,4 +61,5 @@ def decode_message(image_path, wavelet='haar', subband='LH'):
 
 # Ví dụ sử dụng:
 decoded = decode_message('encrypted.png', subband='LH')
+print("successfully decoded")
 print('Tin giải mã:', decoded)
